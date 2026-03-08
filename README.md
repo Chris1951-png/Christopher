@@ -179,10 +179,10 @@ CHRIS is built in the open and welcoming to contributions of all kinds.
 ## Contributors
 
 <a href="https://github.com/chris/chris/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zitadel/chris" />
+  <img src="https://contrib.rocks/image?repo=chris/chris" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks/preview?repo=zitadel/zitadel).
+Made with [contrib.rocks](https://contrib.rocks/preview?repo=chris/chris).
 
 ---
 
