@@ -3,9 +3,9 @@ services:
   devcontainer:
     image: mcr.microsoft.com/devcontainers/typescript-node:22-bookworm
     volumes:
-      - ../:/workspaces/zitadel:cached
+      - ../:/workspaces/chris:cached
     command: sleep infinity
-    working_dir: /workspaces/zitadel
+    working_dir: /workspaces/chris
     environment:
       SHELL: /bin/bash
       DEBIAN_FRONTEND: noninteractive
@@ -79,7 +79,7 @@ services:
     build:
       context: ../apps/login/integration/api-mock
       additional_contexts:
-        zitadel-protos: ../proto
+        chris-protos: ../proto
     ports:
       - 22220:22220
       - 22222:22222
