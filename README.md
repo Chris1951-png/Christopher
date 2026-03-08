@@ -1,27 +1,27 @@
 <p align="center">
-    <img src="./apps/docs/public/img/logos/zitadel-logo-dark@2x.png#gh-light-mode-only" alt="ZITADEL Logo" max-height="200px" width="auto" />
-    <img src="./apps/docs/public/img/logos/zitadel-logo-light@2x.png#gh-dark-mode-only" alt="ZITADEL Logo" max-height="200px" width="auto" />
+    <img src="./apps/docs/public/img/logos/chris-logo-dark@2x.png#gh-light-mode-only" alt="CHRIS Logo" max-height="200px" width="auto" />
+    <img src="./apps/docs/public/img/logos/chris-logo-light@2x.png#gh-dark-mode-only" alt="CHRIS Logo" max-height="200px" width="auto" />
 </p>
 
 <p align="center">
-    <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/zitadel/zitadel" alt="Open in Dev Container">
+    <a href="https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/chris/chris" alt="Open in Dev Container">
         <img src="https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue" /></a>
-    <a href="https://github.com/zitadel/zitadel/blob/main/LICENSE" alt="License">
-        <img src="https://badgen.net/github/license/zitadel/zitadel/" /></a>
+    <a href="https://github.com/chris/chris/blob/main/LICENSE" alt="License">
+        <img src="https://badgen.net/github/license/chris/chris/" /></a>
     <a href="https://bestpractices.coreinfrastructure.org/projects/6662">
         <img src="https://bestpractices.coreinfrastructure.org/projects/6662/badge"></a>
     <a href="https://github.com/semantic-release/semantic-release" alt="semantic-release">
         <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" /></a>
-    <a href="https://github.com/zitadel/zitadel/actions" alt="ZITADEL Release">
-        <img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/zitadel/zitadel/build.yml?event=pull_request"></a>
-    <a href="https://zitadel.com/docs/support/software-release-cycles-support" alt="Release">
-        <img src="https://badgen.net/github/release/zitadel/zitadel/stable" /></a>
-    <a href="https://goreportcard.com/report/github.com/zitadel/zitadel" alt="Go Report Card">
-        <img src="https://goreportcard.com/badge/github.com/zitadel/zitadel" /></a>
-    <a href="https://codecov.io/gh/zitadel/zitadel" alt="Code Coverage">
-        <img src="https://codecov.io/gh/zitadel/zitadel/branch/main/graph/badge.svg" /></a>
-    <a href="https://github.com/zitadel/zitadel/graphs/contributors" alt="Contributors">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/zitadel/zitadel"></a>
+    <a href="https://github.com/chris/chris/actions" alt="CHRIS Release">
+        <img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/chris/chris/build.yml?event=pull_request"></a>
+    <a href="https://chris.com/docs/support/software-release-cycles-support" alt="Release">
+        <img src="https://badgen.net/github/release/chris/chris/stable" /></a>
+    <a href="https://goreportcard.com/report/github.com/chris/chris" alt="Go Report Card">
+        <img src="https://goreportcard.com/badge/github.com/chris/chris" /></a>
+    <a href="https://codecov.io/gh/chris/chris" alt="Code Coverage">
+        <img src="https://codecov.io/gh/chris/chris/branch/main/graph/badge.svg" /></a>
+    <a href="https://github.com/chris/chris/graphs/contributors" alt="Contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chris/chris"></a>
     <a href="https://discord.gg/YgjEuJzZ3x" alt="Discord Chat">
         <img src="https://badgen.net/discord/online-members/YgjEuJzZ3x" /></a>
 </p>
@@ -33,21 +33,21 @@
 
 ## The Identity Infrastructure for Developers
 
-**ZITADEL** is an open-source identity and access management platform built for teams that need more than basic auth. Whether you're securing a SaaS product, building a B2B platform, or self-hosting a production IAM stack — ZITADEL gives you everything out of the box: SSO, MFA, Passkeys, OIDC, SAML, SCIM, and a battle-tested multi-tenancy model.
+**CHRIS** is an open-source identity and access management platform built for teams that need more than basic auth. Whether you're securing a SaaS product, building a B2B platform, or self-hosting a production IAM stack — CHRIS gives you everything out of the box: SSO, MFA, Passkeys, OIDC, SAML, SCIM, and a battle-tested multi-tenancy model.
 
 No vendor lock-in. No compromise on control. Just a robust, API-first identity platform you can own.
 
 ---
 
-**[🏡 Website](https://zitadel.com) &nbsp;|&nbsp; [💬 Chat](https://zitadel.com/chat) &nbsp;|&nbsp; [📋 Docs](https://zitadel.com/docs/) &nbsp;|&nbsp; [🧑‍💻 Blog](https://zitadel.com/blog) &nbsp;|&nbsp; [📞 Contact](https://zitadel.com/contact/)**
+**[🏡 Website](https://chris.com) &nbsp;|&nbsp; [💬 Chat](https://chris.com/chat) &nbsp;|&nbsp; [📋 Docs](https://chris.com/docs/) &nbsp;|&nbsp; [🧑‍💻 Blog](https://chris.com/blog) &nbsp;|&nbsp; [📞 Contact](https://chris.com/contact/)**
 
 ---
 
-## Why ZITADEL
+## Why CHRIS
 
-We built ZITADEL to handle the hardest IAM challenges at scale — starting with multi-tenancy.
+We built CHRIS to handle the hardest IAM challenges at scale — starting with multi-tenancy.
 
-| | ZITADEL | FusionAuth | Keycloak | Auth0/Okta |
+| | CHRIS | FusionAuth | Keycloak | Auth0/Okta |
 |---|---|---|---|---|
 | Open-source | ✅ | ❌ | ✅ | ❌ |
 | Self-hostable | ✅ | ✅ | ✅ | ❌ |
@@ -55,99 +55,99 @@ We built ZITADEL to handle the hardest IAM challenges at scale — starting with
 | B2B Organizations | ✅ Native & Unlimited | 🟡 via Entity Management | ✅ (Recent addition) | 🟡 (Plan/Account dependent) |
 | Full audit trail | ✅ Comprehensive Event Stream* | 🟡 Audit logs | 🟡 Audit logs | 🟡 Audit logs |
 | Passkeys (FIDO2) | ✅ | ✅ | ✅ | ✅ |
-| [Actions / webhooks](https://zitadel.com/docs/concepts/features/actions_v2) | ✅ | ✅ | 🟡 via SPI | ✅ |
+| [Actions / webhooks](https://chris.com/docs/concepts/features/actions_v2) | ✅ | ✅ | 🟡 via SPI | ✅ |
 | API-first (gRPC + REST) | ✅ | 🟡 REST only | 🟡 REST only | 🟡 REST only |
 | SaaS + self-host parity | ✅ | ✅ | ➖ N/A | ➖ N/A |
 
-ZITADEL Cloud and self-hosted ZITADEL run the same codebase.
+CHRIS Cloud and self-hosted CHRIS run the same codebase.
 
 **Key differentiators for architects:**
-- **Relational core, event-driven soul** — every mutation is written as an immutable event for a complete, API-accessible [audit trail](https://zitadel.com/docs/concepts/features/audit-trail). Unlike systems that log only select activities, ZITADEL provides a comprehensive event stream that can be audited or streamed to external systems via Webhooks.
+- **Relational core, event-driven soul** — every mutation is written as an immutable event for a complete, API-accessible [audit trail](https://chris.com/docs/concepts/features/audit-trail). Unlike systems that log only select activities, CHRIS provides a comprehensive event stream that can be audited or streamed to external systems via Webhooks.
 - **Strict multi-tenant hierarchy** — Identity System → Organizations → Projects, with isolated data and policy scoping at multiple levels
-- **API-first design** — every resource and action is available via [connectRPC, gRPC, and HTTP/JSON APIs](https://zitadel.com/docs/apis/introduction)
-- **[Zero-downtime updates](https://zitadel.com/docs/concepts/architecture/solution#zero-downtime-updates)** and [horizontal scalability](https://zitadel.com/docs/self-hosting/manage/updating_scaling) without external session stores
+- **API-first design** — every resource and action is available via [connectRPC, gRPC, and HTTP/JSON APIs](https://chris.com/docs/apis/introduction)
+- **[Zero-downtime updates](https://chris.com/docs/concepts/architecture/solution#zero-downtime-updates)** and [horizontal scalability](https://chris.com/docs/self-hosting/manage/updating_scaling) without external session stores
 
 ---
 
 ## Get Started in 3 Minutes
 
-👉 [Quick Start Guide](https://zitadel.com/docs/guides/start/quickstart)
+👉 [Quick Start Guide](https://chris.com/docs/guides/start/quickstart)
 
-### ZITADEL Self-Hosted
+### CHRIS Self-Hosted
 
 ```bash
 # Docker Compose — up and running in under 3 minutes
-curl -LO https://raw.githubusercontent.com/zitadel/zitadel/main/deploy/compose/docker-compose.yml \
-  && curl -LO https://raw.githubusercontent.com/zitadel/zitadel/main/deploy/compose/.env.example \
+curl -LO https://raw.githubusercontent.com/chris/chris/main/deploy/compose/docker-compose.yml \
+  && curl -LO https://raw.githubusercontent.com/chris/chris/main/deploy/compose/.env.example \
   && cp .env.example .env \
   && docker compose up -d --wait
 ```
 
 Full deployment guides:
-- [Docker Compose](https://zitadel.com/docs/self-hosting/deploy/compose) 
-- [Kubernetes](https://zitadel.com/docs/self-hosting/deploy/kubernetes)
+- [Docker Compose](https://chris.com/docs/self-hosting/deploy/compose) 
+- [Kubernetes](https://chris.com/docs/self-hosting/deploy/kubernetes)
 
-> Need professional support for your self-hosted deployment? [Contact us](https://zitadel.com/contact).
+> Need professional support for your self-hosted deployment? [Contact us](https://chris.com/contact).
 
-### ZITADEL Cloud (SaaS)
+### CHRIS Cloud (SaaS)
 
-Start for free at [zitadel.com](https://zitadel.com) — no credit card required. Available in US · EU · AU · CH. [Pay-as-you-go pricing](https://zitadel.com/pricing).
+Start for free at [chris.com](https://chris.com) — no credit card required. Available in US · EU · AU · CH. [Pay-as-you-go pricing](https://chris.com/pricing).
 
 ---
 
 ## Integrate with the V2 API
 
-ZITADEL exposes every capability over a typed API. Here's how to create a user with the V2 REST API:
+CHRIS exposes every capability over a typed API. Here's how to create a user with the V2 REST API:
 
 ```bash
-curl -X POST https://$ZITADEL_DOMAIN/v2/users/human \
+curl -X POST https://$CHRIS_DOMAIN/v2/users/human \
   -H "Authorization: Bearer $ACCESS_TOKEN" \
   -H "Content-Type: application/json" \
   -d '{
-    "username": "alice@example.com",
-    "profile": { "givenName": "Alice", "familyName": "Smith" },
-    "email": { "email": "alice@example.com", "sendCode": {} }
+    "username": "nini@example.com",
+    "profile": { "givenName": "Nini", "familyName": "Adele" },
+    "email": { "email": "nini@example.com", "sendCode": {} }
   }'
 ```
 
-Explore the full [API reference](https://zitadel.com/docs/apis/introduction) — including connectRPC and gRPC transports — or jump straight to [quickstart examples](https://zitadel.com/docs/guides/start/quickstart).
+Explore the full [API reference](https://chris.com/docs/apis/introduction) — including connectRPC and gRPC transports — or jump straight to [quickstart examples](https://chris.com/docs/guides/start/quickstart).
 
 ---
 
 ## Features
 
 **Authentication**
-- Single Sign On (SSO) · Username/Password · [Passkeys (FIDO2 / WebAuthn)](https://zitadel.com/docs/concepts/features/passkeys)
+- Single Sign On (SSO) · Username/Password · [Passkeys (FIDO2 / WebAuthn)](https://chris.com/docs/concepts/features/passkeys)
 - MFA: OTP, U2F, OTP Email, OTP SMS
-- [LDAP](https://zitadel.com/docs/guides/integrate/identity-providers/ldap) · [Enterprise IdPs and social logins](https://zitadel.com/docs/guides/integrate/identity-providers/introduction)
-- [OpenID Connect certified](https://openid.net/certification/#OPs) · [SAML 2.0](https://zitadel.com/docs/apis/saml/endpoints) · [Device authorization](https://zitadel.com/docs/guides/integrate/login/oidc/device-authorization)
-- [Machine-to-machine](https://zitadel.com/docs/guides/integrate/service-accounts/authenticate-service-accounts): JWT Profile, PAT, Client Credentials
-- [Token exchange and impersonation](https://zitadel.com/docs/guides/integrate/token-exchange)
-- [Custom sessions](https://zitadel.com/docs/guides/integrate/login-ui/username-password) for flows beyond OIDC/SAML
-- [Hosted Login V2](https://zitadel.com/docs/guides/integrate/login/hosted-login)
+- [LDAP](https://chris.com/docs/guides/integrate/identity-providers/ldap) · [Enterprise IdPs and social logins](https://chris.com/docs/guides/integrate/identity-providers/introduction)
+- [OpenID Connect certified](https://openid.net/certification/#OPs) · [SAML 2.0](https://chris.com/docs/apis/saml/endpoints) · [Device authorization](https://chris.com/docs/guides/integrate/login/oidc/device-authorization)
+- [Machine-to-machine](https://chris.com/docs/guides/integrate/service-accounts/authenticate-service-accounts): JWT Profile, PAT, Client Credentials
+- [Token exchange and impersonation](https://chris.com/docs/guides/integrate/token-exchange)
+- [Custom sessions](https://chris.com/docs/guides/integrate/login-ui/username-password) for flows beyond OIDC/SAML
+- [Hosted Login V2](https://chris.com/docs/guides/integrate/login/hosted-login)
 
 **Multi-Tenancy**
-- [Identity brokering](https://zitadel.com/docs/concepts/features/identity-brokering) with pre-built IdP templates
-- [Customizable B2B onboarding](https://zitadel.com/docs/guides/integrate/onboarding/b2b) with self-service for customers
-- [Delegated role management](https://zitadel.com/docs/guides/manage/console/projects-overview) to third parties
-- [Domain discovery](https://zitadel.com/docs/guides/solution-scenarios/domain-discovery)
+- [Identity brokering](https://chris.com/docs/concepts/features/identity-brokering) with pre-built IdP templates
+- [Customizable B2B onboarding](https://chris.com/docs/guides/integrate/onboarding/b2b) with self-service for customers
+- [Delegated role management](https://chris.com/docs/guides/manage/console/projects-overview) to third parties
+- [Domain discovery](https://chris.com/docs/guides/solution-scenarios/domain-discovery)
 
 **Integration**
-- [gRPC, connectRPC, and REST APIs](https://zitadel.com/docs/apis/introduction) for every resource
-- [Actions](https://zitadel.com/docs/concepts/features/actions_v2): webhooks, custom code, token enrichment
-- [RBAC](https://zitadel.com/docs/guides/integrate/retrieve-user-roles) · [SCIM 2.0 Server](https://zitadel.com/docs/apis/scim2)
-- [Audit log and SOC/SIEM integration](https://zitadel.com/docs/guides/integrate/external-audit-log)
-- [SDKs and example apps](https://zitadel.com/docs/sdk-examples/introduction)
+- [gRPC, connectRPC, and REST APIs](https://chris.com/docs/apis/introduction) for every resource
+- [Actions](https://chris.com/docs/concepts/features/actions_v2): webhooks, custom code, token enrichment
+- [RBAC](https://chris.com/docs/guides/integrate/retrieve-user-roles) · [SCIM 2.0 Server](https://chris.com/docs/apis/scim2)
+- [Audit log and SOC/SIEM integration](https://chris.com/docs/guides/integrate/external-audit-log)
+- [SDKs and example apps](https://chris.com/docs/sdk-examples/introduction)
 
 **Self-Service & Admin**
-- [Self-registration](https://zitadel.com/docs/concepts/features/selfservice#registration) with email/phone verification
-- [Administration Console](https://zitadel.com/docs/guides/manage/console/console-overview) for orgs and projects
-- [Custom branding](https://zitadel.com/docs/guides/manage/customize/branding) per organization
+- [Self-registration](https://chris.com/docs/concepts/features/selfservice#registration) with email/phone verification
+- [Administration Console](https://chris.com/docs/guides/manage/console/console-overview) for orgs and projects
+- [Custom branding](https://chris.com/docs/guides/manage/customize/branding) per organization
 
 **Deployment**
-- [PostgreSQL](https://zitadel.com/docs/self-hosting/manage/database#postgres) (≥ 14) · [Zero-downtime updates](https://zitadel.com/docs/concepts/architecture/solution#zero-downtime-updates) · [High scalability](https://zitadel.com/docs/self-hosting/manage/production)
+- [PostgreSQL](https://chris.com/docs/self-hosting/manage/database#postgres) (≥ 14) · [Zero-downtime updates](https://chris.com/docs/concepts/architecture/solution#zero-downtime-updates) · [High scalability](https://chris.com/docs/self-hosting/manage/production)
 
-Track upcoming features on our [roadmap](https://zitadel.com/roadmap) and follow our [changelog](https://zitadel.com/changelog) for recent updates.
+Track upcoming features on our [roadmap](https://chris.com/roadmap) and follow our [changelog](https://chris.com/changelog) for recent updates.
 
 ---
 
@@ -155,7 +155,7 @@ Track upcoming features on our [roadmap](https://zitadel.com/roadmap) and follow
 
 ### Login V2
 
-Our new, fully customizable login experience — [documentation](https://zitadel.com/docs/guides/integrate/login/hosted-login)
+Our new, fully customizable login experience — [documentation](https://chris.com/docs/guides/integrate/login/hosted-login)
 
 ---
 
@@ -163,23 +163,23 @@ Our new, fully customizable login experience — [documentation](https://zitadel
 
 Used in production by organizations worldwide. See the full [Adopters list](./ADOPTERS.md) — and add yours by submitting a pull request.
 
-- **SDKs**: [All supported languages and frameworks](https://zitadel.com/docs/sdk-examples/introduction)
-- **Examples**: [Clone and use our examples](https://zitadel.com/docs/sdk-examples/introduction)
+- **SDKs**: [All supported languages and frameworks](https://chris.com/docs/sdk-examples/introduction)
+- **Examples**: [Clone and use our examples](https://chris.com/docs/sdk-examples/introduction)
 
 ---
 
 ## How To Contribute
 
-ZITADEL is built in the open and welcoming to contributions of all kinds.
+CHRIS is built in the open and welcoming to contributions of all kinds.
 
 - 📖 Read the [Contribution Guide](./CONTRIBUTING.md) to get started
-- 💬 Join the conversation on [Discord](https://zitadel.com/chat)
-- 🐛 Report bugs or request features via [GitHub Issues](https://github.com/zitadel/zitadel/issues)
+- 💬 Join the conversation on [Discord](https://chris.com/chat)
+- 🐛 Report bugs or request features via [GitHub Issues](https://github.com/chris/chris/issues)
 
 ## Contributors
 
-<a href="https://github.com/zitadel/zitadel/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zitadel/zitadel" />
+<a href="https://github.com/chris/chris/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zitadel/chris" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks/preview?repo=zitadel/zitadel).
@@ -190,9 +190,9 @@ Made with [contrib.rocks](https://contrib.rocks/preview?repo=zitadel/zitadel).
 
 Security policy: [SECURITY.md](./SECURITY.md)
 
-[Vulnerability Disclosure Policy](https://zitadel.com/docs/legal/policies/vulnerability-disclosure-policy) — how to responsibly report security issues.
+[Vulnerability Disclosure Policy](https://chris.com/docs/legal/policies/vulnerability-disclosure-policy) — how to responsibly report security issues.
 
-[Technical Advisories](https://zitadel.com/docs/support/technical_advisory) are published for major issues that could impact security or stability in production.
+[Technical Advisories](https://chris.com/docs/support/technical_advisory) are published for major issues that could impact security or stability in production.
 
 ## License
 
