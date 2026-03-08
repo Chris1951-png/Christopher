@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/nx/schemas/project-schema.json",
-  "name": "@zitadel/devcontainer",
+  "name": "@chris/devcontainer",
   "targets": {
     "compose": {
       "description": "Runs arbitrary Docker Compose commands with dev container support. All running services are manageable and addressable from in- and outside the dev container. The services are defined in .devcontainer/docker-compose.yaml.",
